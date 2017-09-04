@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace VK.Properties
+namespace VkAPITutorial.Properties
 {
 
 
